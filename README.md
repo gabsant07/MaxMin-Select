@@ -69,6 +69,9 @@ A eficiência do algoritmo está garantida pela estratégia de divisão e conqui
 ## Exemplo de saída
 
 Analisando o conjunto: [23, 5, 1, 18, 99, 3]
+
 Maior elemento: 99
+
 Menor elemento: 1
+
 Número de comparações: 8
