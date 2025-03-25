@@ -38,7 +38,7 @@ O projeto é composto pelos seguintes arquivos:
 3. Ative o ambiente virtual:
    .venv\Scripts\activate
 
-4.Instale as dependências:
+4. Instale as dependências:
    pip install -r requirements.txt
 
 5. Execute o programa:
