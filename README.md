@@ -77,7 +77,7 @@ Menor elemento: 1
 Número de comparações: 8
 
 ## Diagrama do Fluxo da aplicação
-![Diagrama Aplicação] (https://github.com/gabsant07/MaxMin-Select/blob/main/assets/diagrama.png)
+![Diagrama Aplicação](https://github.com/gabsant07/MaxMin-Select/blob/main/assets/diagrama.png)
 
 
 
